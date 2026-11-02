@@ -6,7 +6,8 @@ import java.util.List;
 /**
  * The View Model for the Logged In View.
  */
-public class LoggedInViewModel {
+public class
+LoggedInViewModel {
 
     private final List<LoggedInViewModelListener> listeners = new ArrayList<>();
 
